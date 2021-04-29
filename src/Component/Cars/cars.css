@@ -1,0 +1,13 @@
+.cars{
+    border: 1px solid lightcyan;
+    border-radius:5px;
+    padding:5px;
+    background-color:beige;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+h2{
+    text-align: center;
+}

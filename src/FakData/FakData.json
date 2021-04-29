@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Bike",
+        "rideId": 1,
+        "imgUrl":"https://static.autox.com/uploads/bikes/2020/10/bmw-g-310-r.jpg"
+    },
+    {
+        "name":"Car",
+        "rideId": 2,
+        "imgUrl":"https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_505_140220101539.jpg?size=1200:675"
+    },
+    {
+        "name":"Bus",
+        "rideId": 3,
+        "imgUrl":"https://etimg.etb2bimg.com/photo/71442867.cms"
+    },
+    {
+        "name":"Train",
+        "rideId": 4,
+        "imgUrl":"https://www.telegraph.co.uk/content/dam/Travel/2018/September/high-speed-maglev-train-shanghai.jpg"
+    }
+]
